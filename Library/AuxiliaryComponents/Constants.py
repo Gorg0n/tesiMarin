@@ -1,0 +1,10 @@
+r_gas = 8.3145  # [J/(K*mol)]
+p_ref = 1.01325  # [bar]
+t_ref = 0  # [°C] 
+conv_bar_pascal=1e5 
+conv_celsius_kelvin=273.15 
+conv_hour_sec=3600
+conv_g_kg=1000
+conv_kWh_MWh=1000
+massa_molare_h2 = 2.016*1e-3 # kg/mol
+rho_water = 1000 # kg/m3
